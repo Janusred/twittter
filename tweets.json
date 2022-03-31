@@ -1,16 +1,43 @@
 [
-{
-    "twitter_id":"Lopez",
-    "content":"Poderoso reballo sagrado",
-    "created_at": "2022-03-27T22:23:30.196187",
-  "updated_at": "2022-03-28T05:33:05.913Z",
+  {
     "by":{
-        "user_id":"",
-"email":"user@example.com",
-"firs_name":"",
-"last_name": "string",
-"birth_date": "2022-03-28"
+      "birth_date": "2022-03-30",
+            "email": "janus@example.com",
+            "first_name": "string",
+            "last_name": "string",
+            "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        },
+        "content": "Tweet Update",
+        "created_at": "2022-03-30T20:45:31.248758",
+        "tweet_id": "3fa85f64-5717-4562-b3fc-2c963f66afa1",
+        "updated_at": "2022-03-30 20:57:30.209000+00:00"
+    },
+    {
+      "by":{
+        "birth_date": "2022-03-30",
+            "email": "Janus@example.com",
+            "first_name": "string",
+            "last_name": "string",
+            "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        },
+        "content": "Janus",
+        "created_at": "2022-03-30T21:15:31.248758",
+        "tweet_id": "3fa85f64-5717-4562-b3fc-2c963f66afa1",
+        "updated_at": "2022-03-30 21:17:00.209000+00:00"
+      },
+      {
+        "by": {
+            "birth_date": "2022-03-27",
+            "email": "Janus@example.com",
+            "first_name": "Janus Lds",
+            "last_name": "Lds Janus",
+            "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        },
+        "content": "Listo Janus",
+        "created_at": "2022-03-30 21:28:42.122518",
+        "tweet_id": "3fa85f64-5717-4562-b3fc-2c963f66afa4",
+        "updated_at": "2022-03-30 21:30:11.859000+00:00"
     }
-}
-
+        
+  
 ]
